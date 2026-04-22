@@ -1,4 +1,4 @@
-👋 Olá, eu sou o Felipe Viana
+👋 Olá, eu sou o Felipe Castro
 
 📊 Atuo como Cientista de Dados e Especialista em Business Intelligence, com mais de 10 anos de experiência em Gestão em Saúde, Hospitais e Operadoras de Planos de Saúde  
 

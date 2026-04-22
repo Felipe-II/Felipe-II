@@ -10,7 +10,7 @@
 
 🤝 Tenho interesse em colaborar em iniciativas relacionadas a Business Intelligence, analytics em saúde, governança de dados, arquitetura analítica e soluções de suporte à decisão baseadas em dados e IA  
 
-📫 Contato: felipeviana.powerbi@gmail.com  
+📫 Contato: felipecastroadm15@gmail.com
 
 ⚡ Curiosidade: gosto de estruturar ambientes de dados complexos e fragmentados em soluções analíticas confiáveis, governadas e orientadas à tomada de decisão
 
